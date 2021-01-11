@@ -1,0 +1,3 @@
+django-admin startproject =  cria projeto
+
+python manage.py runserver = sobe servidor
